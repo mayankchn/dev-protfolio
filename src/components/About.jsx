@@ -11,7 +11,7 @@ const About = () => {
                     <div className="flex flex-col items-center gap-7 sm:w-1/2 sm:order-1 sm:gap-10">
                         <h1 className="text-3xl font-bold leading-10 w-4/5 mx-auto sm:text-start text-center sm:w-full lg:text-5xl">Hi, I'm Mayank, Frontend Developer</h1>
                         <p className="text-base font-base">Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.</p>
-                        <button className="bg-btn-default text-white font-semibold px-4 py-2 sm:self-start sm:font-bold lg:text-xl">Download Resume</button>
+                        <button className="bg-btn-default text-white font-semibold px-4 py-2 sm:self-start sm:font-bold lg:text-xl"><a href="https://drive.google.com/file/d/1TBlgaTbJxL4vMZFQz0u82i3m4eE31TFO/view?usp=sharing" download="Resume.pdf" target="_blank">Download Resume</a></button>
                     </div>
                 </div>
             </div>
