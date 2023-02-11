@@ -3,7 +3,7 @@ import React from "react";
 const Skills = () => {
     return (
         <section className="mt-8 bg-back-default py-8 text-secondary-dark" id="skills">
-            <div className="container w-4/5 mx-auto border">
+            <div className="container w-4/5 mx-auto">
                 <div className="px-2 py-5 flex flex-col items-center gap-2 bg-white">
                     <p className="text-lg font-medium">SKILLS</p>
                     <div className="flex flex-col items-center gap-2 sm:grid sm:grid-cols-2 lg:grid-cols-3">

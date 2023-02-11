@@ -15,7 +15,7 @@ const Navbar = () => {
 
     return (
         <nav className="bg-back-default text-secondary-dark">
-            <div className="container w-4/5 mx-auto border">
+            <div className="container w-4/5 mx-auto">
                 <div className="flex justify-end py-5 sm:hidden">
                     {!burger && <GiHamburgerMenu
                         className="text-3xl"

@@ -5,7 +5,7 @@ const ProjectsPage = () => {
 
     return (
         <section className="mt-8 py-8 text-secondary-dark" id="projects">
-            <div className="container w-4/5 mx-auto border">
+            <div className="container w-4/5 mx-auto">
                 <div className="px-2 py-5 flex flex-col items-center gap-7 bg-white">
                     <p className="text-lg font-medium">PROJECTS</p>
                     <a href="https://thecodeyogishop.netlify.app/" target="_blank"><Project
